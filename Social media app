@@ -2,3 +2,4 @@ Backend Server (Node.js with Express.js):
 server.js: Entry point of your server.
 routes/: Directory to store route handlers.
 userRoutes.js: Routes related to user authentication, profile management, etc.
+postRoutes.js: Routes related to creating, updating, and fetching posts.
