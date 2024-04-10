@@ -3,4 +3,4 @@ Backend Server (Node.js with Express.js):
 routes/: Directory to store route handlers.
 userRoutes.js: Routes related to user authentication, profile management, etc.
 postRoutes.js: Routes related to creating, updating, and fetching posts.
-commentRoutes.js:
+commentRoutes.js:Routes for adding comments to posts.
