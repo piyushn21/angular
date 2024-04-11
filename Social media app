@@ -4,3 +4,4 @@ Backend Server (Node.js with Express.js):
 userRoutes.js: Routes related to user authentication, profile management, etc.
 postRoutes.js: Routes related to creating, updating, and fetching posts.
 commentRoutes.js:Routes for adding comments to posts.
+Other route files as per your app's features.
