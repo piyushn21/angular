@@ -1,12 +1,2 @@
-Backend Server (Node.js with Express.js):
-server.js: Entry point of your server.
-routes/: Directory to store route handlers.
-userRoutes.js: Routes related to user authentication, profile management, etc.
-postRoutes.js: Routes related to creating, updating, and fetching posts.
-commentRoutes.js:Routes for adding comments to posts.
-Other route files as per your app's features.
-controllers/:Directory to store controller functions for each route.
-Other route files as per your app's features.
-
-Code : 1. Backend Code: Node.js (Express & WebSocket)
+1. Backend Code: Node.js (Express & WebSocket)
 const express = require('express');
